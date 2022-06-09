@@ -1,0 +1,1 @@
+/data/data/com.termux/files/home/coding/rust/euler/e001-multiples-of-3-or-5/target/debug/e001-multiples-of-3-or-5: /data/data/com.termux/files/home/coding/rust/euler/e001-multiples-of-3-or-5/src/main.rs
