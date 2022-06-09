@@ -1,0 +1,1 @@
+/data/data/com.termux/files/home/coding/rust/euler/e002-even-fibonacci-numbers/target/release/e002-even-fibonacci-numbers: /data/data/com.termux/files/home/coding/rust/euler/e002-even-fibonacci-numbers/src/main.rs
